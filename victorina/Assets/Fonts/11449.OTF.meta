@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: edc2aa77d0cc5bc48a2826d65d1d8a1e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stolzl
+  fontNames:
+  - Stolzl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e3691c9fe32d1e42afe5f9ed5f7dd00, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
